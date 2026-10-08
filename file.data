@@ -1,0 +1,7 @@
+S mystack item1 item2
+M myarr A B C
+F mylist C D
+L dlist Y Z
+S st item1
+Q q1 second
+T mytree 40 20 50 70
